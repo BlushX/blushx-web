@@ -2,7 +2,7 @@ describe('me', () => {
     'use srict';
 
     it('is awesome', () => {
-        //expect(true).to.be(true);
+        expect(false).to.be(true);
         
     });
 });
